@@ -1,4 +1,0 @@
-interface:
-  display_name: "FTLZ Illustrator"
-  short_description: "Chinese illustration prompt maker."
-  default_prompt: "Use $ftlz-illustrator to create a Chinese Markdown image prompt for my public-account article illustration."
